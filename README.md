@@ -14,7 +14,7 @@ Live URL: (https://task-flow-mu-eight.vercel.app)
 ## Admin Credentials
 
 Email: nishantbhd28@gmail.com 
-Password: Admin@123  
+Password: 12345678 
 
 Note: These credentials are for demonstration purposes only. 
 
